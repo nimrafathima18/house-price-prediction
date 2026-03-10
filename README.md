@@ -106,17 +106,14 @@ Random Forest performed the best among the tested models.
 
 ## Project Workflow
 
-Data Collection  
-      ⬇  
-Data Cleaning  
-      ⬇  
-Exploratory Data Analysis  
-      ⬇  
-Feature Engineering  
-      ⬇  
-Model Training  
-      ⬇  
-Model Evaluation
+## Project Workflow
+
+1. Data Collection  
+2. Data Cleaning  
+3. Exploratory Data Analysis (EDA)  
+4. Feature Engineering  
+5. Model Training  
+6. Model Evaluation
 
 ---
 
